@@ -8,8 +8,8 @@ GENERAL
 body {
 
   margin: 0;
-  background-color: #000;
-  color: #fff;
+  background-color: #fff;
+  color: #1D3C6A;
   background-size: 250%;
   font-family: 'Nunito', arial;
 }
@@ -200,6 +200,22 @@ NAVIGATION - projects, skills, about, contact, feedback
 
 /**** END OF NAV BUTTONS *****/
 
+/*********************************
+MY-DIV
+*********************************/
+
+
+#my-div {
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 100%;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
+.mytwitter {
+  color:#33CCFF;
+}
 
 /*********************************
 WELCOME
