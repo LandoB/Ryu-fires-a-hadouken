@@ -211,11 +211,46 @@ MY-DIV
   width: 100%;
   padding-top:20px;
   padding-bottom:20px;
+  display: inline-block;
+  float: left;
 }
 
-.mytwitter {
-  color:#33CCFF;
+
+.moving-hadouken {
+    vertical-align: top;
+    margin-top: 140px;
+    margin-left: -100px;
 }
+
+/*div pre code {
+    padding-left: 15px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+}*/
+
+
+/* jQuery project demo */
+.demo-hadouken {
+    vertical-align: top;
+    margin-top: 55px;
+    margin-left: -55px;
+}
+
+#main-example-add-sound {
+    background-color: #27AE60;
+    font-family: sans-serif;
+    color: #FBFCFC;
+    margin: 20px 46px;
+    display: inline-block;
+    padding: 4px 10px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
 
 /*********************************
 WELCOME
