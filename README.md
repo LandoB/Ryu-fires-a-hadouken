@@ -1,1 +1,1 @@
-Ryu fores a hadouken. jQuery Project
+Ryu fires a hadouken. jQuery Project
