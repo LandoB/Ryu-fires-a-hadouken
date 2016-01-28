@@ -174,13 +174,6 @@ MY-DIV
     margin-left: -100px;
 }
 
-/*div pre code {
-    padding-left: 15px;
-    border-radius: 3px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-}*/
-
 
 /* jQuery project demo */
 .demo-hadouken {
@@ -202,35 +195,6 @@ MY-DIV
 }
 
 
-
-/*********************************
-FOOTER
-*********************************/
-
-
-footer {
-  clear: both;
-  font-size: 1.125em;
-  text-align: center;
-  margin= auto;
-  width: 100%;
-  padding-bottom:2px;
-}
-
-footer ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-footer li {
-  display: inline-block;
-}
-
-footer a {
-  font-weight:800;
-  padding: 15px 10px;
-}
 
 
 
